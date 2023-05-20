@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medicapps</string>
+    <string name="splash_image">splash_image</string>
+    <string name="medicine_page">medicine page</string>
+    <string name="empty_users">No users, Click (+) to add one.</string>
+    <string name="empty_expiry">No medicine, Click (+) to add one.</string>
+</resources>
